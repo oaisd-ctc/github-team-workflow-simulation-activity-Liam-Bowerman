@@ -1,4 +1,12 @@
 body
 {
-    background-color: maroon
+    background-color: maroon;
+}
+h1
+{
+    color: white;
+}
+p
+{
+    color: rgb(229, 255, 0);
 }
